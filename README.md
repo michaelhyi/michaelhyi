@@ -1,6 +1,6 @@
 # Hi! I'm Michael
 
-Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech. I love low-level systems and backend engineering. Here's some of my projects, experience, and skills.
+Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech. I love low-level systems and backend engineering.
 
 ## Projects
 - [16-Bit Pipelined VM](https://github.com/michaelhyi/pipelined-vm) (C, LC-3 Assembly):
@@ -9,7 +9,6 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech. I love low-level sy
 	- Converts scanned medical files into encrypted electronic records w/OCR & LLMs
 - [APIVeil](https://github.com/michaelhyi/apiveil) (C++, Poco, Python, Flask, PostgreSQL, AWS, React):
 	- AI powered reverse proxy that monitors API traffic and assists with debugging. LLM-powered analysis with RAG for powerful analysis.
-	- Georgia Tech's CS 4723: Inter Capstone Design
 - [Georgia Tech Bits of Good: Nonprofit iCAN](https://github.com/GTBitsofGood/ican) (Typescript, Next.js, MongoDB):
 	- Building a medication logging game for pediatric patients (working with Atlanta nonprofit iCAN)
 
