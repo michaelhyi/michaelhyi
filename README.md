@@ -14,8 +14,8 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-lev
 
 ## Experience
 
-- Software Engineer Intern at **Capital One** 
-- Previous Software Engineer Intern at **T-Mobile**
+- SWE Intern at **Capital One** 
+- Prev. SWE Intern at **T-Mobile**
 - TA for **Georgia Tech's CS 2110: Computer Architecture**
 - Engineering Manager at **Georgia Tech Bits of Good**
 
