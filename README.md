@@ -1,6 +1,6 @@
-Hi! My name's Michael, and I love low-level systems and backend engineering.
+# Hi! I'm Michael
 
-My best projects:
+## My best projects
 - [16-Bit Pipelined VM](https://github.com/michaelhyi/pipelined-vm) (C, LC-3 Assembly):
 	- Simulated a pipelined processor with multithreading, runs ASM programs
 - [ScribeAI, 1st Place Overall at HackGT X](https://github.com/michaelhyi/scribeai) (Java, Spring, PostgreSQL, Kubernetes, React):
@@ -11,7 +11,7 @@ My best projects:
 - [Georgia Tech Bits of Good: Nonprofit iCAN](https://github.com/GTBitsofGood/ican) (Typescript, Next.js, MongoDB):
 	- Building a medication logging game for pediatric patients (working with Atlanta nonprofit iCAN)
 
-Currently, I'm:
+## Experience
 
 - Software Engineer Intern at Capital One
 - BS/MS Computer Science student at Georgia Tech
@@ -21,4 +21,9 @@ Currently, I'm:
 	- Working with Atlanta Nonprofit iCAN
 
 Previously, I worked at T-Mobile.
+
+## Skills
+- *Languages*: Java, C/C++, Python, Go, C#, SQL
+- *Frameworks*: Spring, Kafka, gRPC, GraphQL, Django, Flask, .NET, Node.js, React
+- *Tools*: Unix, AWS, Docker, Kubernetes, MySQL, PostgreSQL, Redis, GDB
 
