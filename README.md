@@ -14,7 +14,7 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-lev
 - Sales Invoice Automation Platform (Java, Spring, gRPC, Kafka, GraphQL, MySQL):
 	- Automates Excel sales data -> pivot table -> invoice generation
 	- Wrote custom API gateway to distribute GraphQL requests to microservices
-- Film Blog (Java, Spring, MySQL, Redis):
+- [Film Blog](https://github.com/michaelhyi/film-blog) (Java, Spring, MySQL, Redis):
 	- Blog to post essays about cinema 
 	- Wrote custom cache service with Redis
 - [Georgia Tech Bits of Good: Nonprofit iCAN](https://github.com/GTBitsofGood/ican) (TypeScript, Next.js, MongoDB):
