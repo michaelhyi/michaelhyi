@@ -1,6 +1,8 @@
 # Hi! I'm Michael
 
-## My best projects
+Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech. I love low-level systems and backend engineering. Here's some of my projects, experience, and skills.
+
+## Projects
 - [16-Bit Pipelined VM](https://github.com/michaelhyi/pipelined-vm) (C, LC-3 Assembly):
 	- Simulated a pipelined processor with multithreading, runs ASM programs
 - [ScribeAI, 1st Place Overall at HackGT X](https://github.com/michaelhyi/scribeai) (Java, Spring, PostgreSQL, Kubernetes, React):
@@ -13,9 +15,9 @@
 
 ## Experience
 
-- Software Engineer Intern at Capital One
-- BS/MS Computer Science student at Georgia Tech
-	- Concentrating in Systems Architecture and Information/Networking
+- Software Engineer Intern at **Capital One**
+- BS/MS CS at **Georgia Tech**
+	- **Concentrations:** Systems Architecture and Information/Networking
 - Teaching Assistant for Georgia Tech's CS 2110: Computer Architecture
 - Engineering Manager at Georgia Tech Bits of Good
 	- Working with Atlanta Nonprofit iCAN
@@ -23,7 +25,7 @@
 Previously, I worked at T-Mobile.
 
 ## Skills
-- *Languages*: Java, C/C++, Python, Go, C#, SQL
-- *Frameworks*: Spring, Kafka, gRPC, GraphQL, Django, Flask, .NET, Node.js, React
-- *Tools*: Unix, AWS, Docker, Kubernetes, MySQL, PostgreSQL, Redis, GDB
+- **Languages**: Java, C/C++, Python, Go, C#, SQL
+- **Frameworks**: Spring, Kafka, gRPC, GraphQL, Django, Flask, .NET, Node.js, React
+- **Tools**: Unix, AWS, Docker, Kubernetes, MySQL, PostgreSQL, Redis, GDB
 
