@@ -2,7 +2,7 @@
 
 Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-level systems and backend engineering.
 
-## Projects
+## Notable Projects
 - [16-Bit Pipelined VM](https://github.com/michaelhyi/pipelined-vm) (C, LC-3 Assembly):
 	- Pipelined LC-3 processor simulated w/multithreading, runs ASM programs
 - OS Kernel Components (C):
