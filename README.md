@@ -1,6 +1,6 @@
-# Hi! I'm Michael
+# Hi! I'm Michael 👋
 
-Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech. I love low-level systems and backend engineering.
+Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-level systems and backend engineering.
 
 ## Projects
 - [16-Bit Pipelined VM](https://github.com/michaelhyi/pipelined-vm) (C, LC-3 Assembly):
@@ -16,8 +16,8 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech. I love low-level sy
 
 - Software Engineer Intern at **Capital One** 
 - Previous Software Engineer Intern at **T-Mobile**
-- Teaching Assistant for Georgia Tech's CS 2110: Computer Architecture
-- Engineering Manager at Georgia Tech Bits of Good
+- Teaching Assistant for **Georgia Tech's CS 2110: Computer Architecture**
+- Engineering Manager at **Georgia Tech Bits of Good**
 
 ## Skills
 - **Languages**: Java, C/C++, Python, Go, C#, SQL
