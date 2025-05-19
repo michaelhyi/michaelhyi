@@ -15,7 +15,6 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech. I love low-level sy
 ## Experience
 
 - Software Engineer Intern at **Capital One** 
-- BS/MS CS at **Georgia Tech** 🐝
 - Previous Software Engineer Intern at **T-Mobile**
 - Teaching Assistant for Georgia Tech's CS 2110: Computer Architecture
 - Engineering Manager at Georgia Tech Bits of Good
@@ -23,5 +22,5 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech. I love low-level sy
 ## Skills
 - **Languages**: Java, C/C++, Python, Go, C#, SQL
 - **Frameworks**: Spring, Kafka, gRPC, GraphQL, Django, Flask, .NET, Node.js, React
-- **Tools**: Unix, AWS, Docker, Kubernetes, MySQL, PostgreSQL, Redis, GDB
+- **Tools**: Unix, AWS, Docker, Kubernetes, MySQL, PostgreSQL, Redis
 
