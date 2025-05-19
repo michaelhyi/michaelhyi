@@ -14,13 +14,6 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-lev
 - [Georgia Tech Bits of Good: Nonprofit iCAN](https://github.com/GTBitsofGood/ican) (TypeScript, Next.js, MongoDB):
 	- Medication logging game for pediatric patients
 
-## Experience
-
-- SWE Intern at **Capital One** 
-- Prev. SWE Intern at **T-Mobile**
-- TA for **Georgia Tech's CS 2110: Computer Architecture**
-- Engineering Manager at **Georgia Tech Bits of Good**
-
 ## Skills
 - **Languages**: Java, C/C++, Python, Go, C#, SQL
 - **Frameworks**: Spring, Kafka, gRPC, GraphQL, Django, Flask, .NET, Node.js, React
