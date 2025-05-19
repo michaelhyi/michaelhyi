@@ -5,6 +5,8 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-lev
 ## Projects
 - [16-Bit Pipelined VM](https://github.com/michaelhyi/pipelined-vm) (C, LC-3 Assembly):
 	- Pipelined LC-3 processor simulated w/multithreading, runs ASM programs
+- OS Kernel Components (C):
+	- Virtual memory, paging, CPU scheduler, transport protocol
 - [ScribeAI, 1st Place Overall at HackGT X](https://github.com/michaelhyi/scribeai) (Java, Spring, PostgreSQL, Kubernetes, React):
 	- Converts scanned medical files into encrypted electronic records w/OCR & LLMs
 - [APIVeil](https://github.com/michaelhyi/apiveil) (C++, Poco, Python, Flask, PostgreSQL, AWS, React):
