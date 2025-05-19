@@ -11,6 +11,12 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-lev
 	- Converts scanned medical files into encrypted electronic records w/OCR & LLMs
 - [APIVeil](https://github.com/michaelhyi/apiveil) (C++, Poco, Python, Flask, PostgreSQL, AWS, React):
 	- AI powered reverse proxy that monitors API traffic and assists with debugging w/LLMs & RAG
+- Sales Invoice Automation Platform (Java, Spring, gRPC, Kafka, GraphQL, MySQL):
+	- Automates Excel sales data -> pivot table -> invoice generation
+	- Wrote custom API gateway to distribute GraphQL requests to microservices
+- Film Blog (Java, Spring, MySQL, Redis):
+	- Blog to post essays about cinema 
+	- Wrote custom cache service with Redis
 - [Georgia Tech Bits of Good: Nonprofit iCAN](https://github.com/GTBitsofGood/ican) (TypeScript, Next.js, MongoDB):
 	- Medication logging game for pediatric patients
 
