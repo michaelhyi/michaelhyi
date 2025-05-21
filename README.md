@@ -1,13 +1,13 @@
 # Hi! I'm Michael 👋
 
-Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-level systems and backend engineering. I enjoy writing C/C++, Java, Python, and Go; I'm also heavily experienced with frameworks like Spring Framework, Kafka, and gRPC.
+Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-level systems and backend engineering. I enjoy writing in C/C++, Java, Python, and Go; I'm also heavily experienced with frameworks like Spring Framework, Kafka, and gRPC.
 
 ## Notable Projects
 
-See my pinned projects. The following are projects that are closed-source (if any future employers would like to see their code, please contact me at michaelyi@gatech.edu).
+See my pinned projects and [portfolio](https://michael-yi.com/portfolio). The following are projects that are closed-source (if any future employers would like to see their code, please contact me at michaelyi@gatech.edu):
 
-- **OS Kernel Components**: Virtual memory, paging, a multi-core CPU scheduler, and a reliable transport protocol.
-- **Sales Invoice Automation Platform**: A platform for a logistics company that generates pivot tables and bills invoices from Excel sales data. Wrote a custom API gateway to distribute GraphQL requests to microservices.
+- **OS Kernel Components**: Virtual memory, page tables, page faults, a multi-core CPU scheduler, and a reliable transport protocol.
+- **Sales Invoice Automation Platform**: A platform for a logistics company that generates pivot tables and bills invoices from Excel sales data. Wrote a custom API gateway to distribute GraphQL requests to microservices with Java, Spring, gRPC, Kafka.
 
 ## Hackathons
 
