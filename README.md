@@ -6,7 +6,7 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-lev
 
 See my pinned projects and [portfolio](https://michael-yi.com/portfolio). The following are projects that are closed-source (if any future employers would like to see their code, please contact me at michaelyi@gatech.edu):
 
-- **OS Kernel Components**: Virtual memory, page tables, page faults, a multi-core CPU scheduler, and a reliable transport protocol.
+- **OS Kernel Components**: Virtual memory, page tables, page faults, a multi-core CPU scheduler, & a reliable transport protocol.
 - **Sales Invoice Automation Platform**: A platform for a logistics company that generates pivot tables and bills invoices from Excel sales data. Wrote a custom API gateway to distribute GraphQL requests to microservices with Java, Spring, gRPC, Kafka.
 
 ## Hackathons
