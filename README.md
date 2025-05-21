@@ -11,3 +11,11 @@ Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-lev
 - [Film Blog](https://github.com/michaelhyi/film-blog): A personal blog for writing about movies. Wrote a custom cache service leveraging Redis, and utilized AWS S3 buckets for blob storage.
 - [Georgia Tech Bits of Good - Nonprofit iCAN](https://github.com/GTBitsofGood/ican): A medication logging game for pediatric patients.
 
+## Hackathons
+
+- [1st Place Overall at HackGT X](https://devpost.com/software/scribeai)
+- [Best Access to Healthcare Hack at PennApps "Health Hacks"](https://devpost.com/software/n-a-dek950)
+- [2nd Place at Coding Your Future Hackathon](https://devpost.com/software/chestray)
+- [Best Environmental Hack at Unlock Hacks](https://devpost.com/software/leafx)
+- [3rd Place at CA45 Congressional App Challenge](https://www.youtube.com/watch?v=oFE0Inj-pr8)
+
