@@ -1,6 +1,6 @@
 # Hi! I'm Michael 👋
 
-Hi! I'm Michael, and I'm a BS/MS CS student at Georgia Tech 🐝. I love low-level systems and backend engineering. I enjoy writing in C/C++, Java, Python, and Go; I'm also heavily experienced with frameworks like Spring Framework, Kafka, and gRPC.
+Hi! I'm Michael, and I'm a 3rd year BS/MS CS student at Georgia Tech 🐝. I love low-level systems and backend engineering. I enjoy writing in Java, C/C++, Python, and Go; I'm also heavily experienced with frameworks like Spring Framework, Kafka, and gRPC.
 
 ## Notable Projects
 
