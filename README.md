@@ -13,7 +13,7 @@ See my pinned projects, the [Hackathons](#hackathons) section, and my [portfolio
 
 - [1st Place Overall at HackGT X](https://devpost.com/software/scribeai)
 - [Best Access to Healthcare Hack at PennApps "Health Hacks"](https://devpost.com/software/n-a-dek950)
-- [2nd Place at Coding Your Future Hackathon](https://devpost.com/software/chestray)
+- [2nd Place Overall at Coding Your Future Hackathon](https://devpost.com/software/chestray)
 - [Best Environmental Hack at Unlock Hacks](https://devpost.com/software/leafx)
-- [3rd Place at CA45 Congressional App Challenge](https://www.youtube.com/watch?v=oFE0Inj-pr8)
+- [3rd Place Overall at CA45 Congressional App Challenge](https://www.youtube.com/watch?v=oFE0Inj-pr8)
 
